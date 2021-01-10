@@ -90,7 +90,6 @@ After cloning the repo and installing the required npm packages, use the command
 </br>
 
 ## Badges
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 ![GitHub repo size](https://img.shields.io/github/repo-size/jorgeebn16/10-Object-Oriented-Programming-Challenge)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/jorgeebn16/10-Object-Oriented-Programming-Challenge)
 ![Most recent commit](https://img.shields.io/github/last-commit/jorgeebn16/10-Object-Oriented-Programming-Challenge)
@@ -115,7 +114,7 @@ After cloning the repo and installing the required npm packages, use the command
 <br/>
 
 ## Screenshot
-![Application Preview](./assets/images/screenshot.png)
+![Application Preview](./assets/images/Screenshot.png)
 </br>
 </br>
 
